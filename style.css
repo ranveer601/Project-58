@@ -34,6 +34,19 @@ body {
     vertical-align: middle;
 }
 
-h1 {
-    te
+.menue {
+    list-style: none;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+    z-index: 10;
+    position: absolute;
+}
+
+.links {
+    float: left;
+    padding-left: 20px;
+    padding-right: 20px;
 }
